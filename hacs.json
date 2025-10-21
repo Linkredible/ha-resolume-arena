@@ -1,0 +1,7 @@
+{
+  "name": "Resolume Arena",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["resolume_arena"],
+  "country": ["FR"]
+}

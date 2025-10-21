@@ -1,0 +1,4 @@
+DOMAIN = "resolume_arena"
+DEFAULT_PORT = 8080
+SCAN_INTERVAL_SECONDS = 2
+API_BASE = "/api/v1"

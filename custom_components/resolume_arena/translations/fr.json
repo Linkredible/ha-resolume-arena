@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Resolume Arena",
+        "data": {
+          "host": "H\u00f4te",
+          "port": "Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Connexion impossible",
+      "unknown": "Erreur inattendue"
+    },
+    "abort": {
+      "already_configured": "Appareil d\u00e9j\u00e0 configur\u00e9"
+    }
+  }
+}

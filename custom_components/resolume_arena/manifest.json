@@ -1,0 +1,14 @@
+{
+  "domain": "resolume_arena",
+  "name": "Resolume Arena",
+  "config_flow": true,
+  "documentation": "https://github.com/Linkredible/ha-resolume-arena",
+  "issue_tracker": "https://github.com/Linkredible/ha-resolume-arena/issues",
+  "iot_class": "local_polling",
+  "codeowners": [],
+  "version": "1.0.0",
+  "requirements": [
+    "aiohttp"
+  ],
+  "icon": "mdi:projector-screen"
+}
